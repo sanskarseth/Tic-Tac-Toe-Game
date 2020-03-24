@@ -1,0 +1,16 @@
+td{
+    width:100px;
+    height: 100px;
+   background: rgb(65, 91, 177);
+   font-size: 40px;
+   text-align: center;
+   border-radius: 10px ;
+}
+table{
+    margin: 20px auto;
+    border-radius: 10px;
+    color: white;
+}
+body{
+    background:rgb(208, 228, 121);
+}
